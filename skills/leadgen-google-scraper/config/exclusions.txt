@@ -1,0 +1,10 @@
+# Exclusions for leadgen-google-scraper.
+# One term per line. Case-insensitive substring match against the firm name
+# and the Google category. Lines beginning with # are ignored.
+#
+# The authoritative exclusion list lives in the Notion SOP. This file is the
+# script's fallback and must be kept in step with the SOP.
+H&R Block
+Liberty Tax
+ITP
+Etax
